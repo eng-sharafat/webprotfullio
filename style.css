@@ -1,0 +1,44 @@
+body{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    margin: 0;
+}
+h1{
+    font: size 50px;
+}
+h2{
+    font-size: 40px;
+}
+h3{
+    font-weight: 600px;
+}
+.first{
+    color: orange;
+}
+h3{
+    font-weight: 700;
+}
+.width{
+    width: 40%;
+    float: left;
+    margin-left: 5%;
+    padding-left: 2%;
+}
+.width img{
+    background-repeat: no-repeat;
+    background-position: right;
+}
+.left-width{
+    width: 40%;
+    float: left;
+    margin-left: 5%;
+    padding-left: 2%;
+}
+/* Exprece car design style */
+.ex-card{
+    width:45%;
+    border: 1px solid gray;
+}
+.ex-card h1{
+    font-weight: bold;
+    font-size: 36px;
+}
